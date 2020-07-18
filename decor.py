@@ -1,7 +1,8 @@
 
 
 '''
-Decorator example
+Sample Decorator program
+Push into github repository
 '''
 
 class ClassName():
