@@ -1,3 +1,6 @@
 This is new Test file
 learning state
 
+Added few more lines for technologies
+python
+django
