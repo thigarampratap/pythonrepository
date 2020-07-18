@@ -1,6 +1,6 @@
 This is new Test file
 learning state
 
-Added few more lines for technologies
+Added few more lines
 python
 django
